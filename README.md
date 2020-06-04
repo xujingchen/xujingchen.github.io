@@ -2,7 +2,7 @@
     <h2 align="center">Homepage of Jingchen Xu</h2>
 </p>
 
-<p align="center">About Science and Research</p>
+<p align="center">About Science and Research (Nothing here yet; under construction)</p>
 
 ***
 <!--
