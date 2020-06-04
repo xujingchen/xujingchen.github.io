@@ -1,6 +1,6 @@
 # main text of home
 name: Jingchen Xu
-bio: "Chance Favors the Prepared Mind."
+bio: Chance Favors the Prepared Mind.
 
 # twitter summary info
 description: A blog about science and stuff related
@@ -55,9 +55,9 @@ email: jcxu@ynao.ac.cn
 authors:
   xujingchen:
     name: Jingchen Xu
-    bio: Chance Favors the Prepared Mind
+    bio: Chance Favors the Prepared Mind.
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile.png
     twitter: xujingchen
   # jamesfoster:
   #   name: James Foster
